@@ -1,0 +1,138 @@
+[
+    {
+      "id": 1,
+      "name": "Aqua Pure",
+      "color": "Blue",
+      "image": "https://img.freepik.com/free-photo/peace-lily-plant-terracotta-pot-home-decor-object_53876-146302.jpg?t=st=1743707739~exp=1743711339~hmac=0c60a8e0360d2755a1a0406573135aa364cdaac19ec74ba1fde3f1c19b9dbd8c&w=740",
+      "capacity": "1L",
+      "material": "Plastic",
+      "price": 120
+    },
+    {
+      "id": 2,
+      "name": "Eco Flask",
+      "color": "Green",
+      "image": "https://img.freepik.com/free-photo/birds-nest-plant-beige-pot_53876-134284.jpg?t=st=1743708685~exp=1743712285~hmac=72ecab795230047827f58af1c054647bc039c61586bef20c189bad164fe4b8b4&w=740",
+      "capacity": "750ml",
+      "material": "Stainless Steel",
+      "price": 350
+    },
+    {
+      "id": 3,
+      "name": "Hydro Boost",
+      "color": "Red",
+      "image": "https://img.freepik.com/free-photo/monstera-plant-black-pot_53876-134313.jpg?t=st=1743708715~exp=1743712315~hmac=5696cc858d20ca64e37c96c981ac94a7998fd9b999301e16ffd7b2ca707b4075&w=740",
+      "capacity": "500ml",
+      "material": "Glass",
+      "price": 250
+    },
+    {
+      "id": 4,
+      "name": "Chill Mate",
+      "color": "Black",
+      "image": "https://img.freepik.com/free-photo/colour-flowers-white-pot-isolated-white_231208-2933.jpg?t=st=1743708735~exp=1743712335~hmac=f11123a148cb81d8f266b79a29dbbfadd3e517eec9283cac8cebfb3cb879c533&w=740",
+      "capacity": "1.5L",
+      "material": "Plastic",
+      "price": 180
+    },
+    {
+      "id": 5,
+      "name": "Steel Sipper",
+      "color": "Silver",
+      "image": "https://img.freepik.com/free-photo/still-life-with-indoor-plants_23-2151024936.jpg?t=st=1743708767~exp=1743712367~hmac=3335773b63b2e45cb5e065aa6c19a8e87dae8a8331289ea835e2303c8dfa9dcc&w=740",
+      "capacity": "1L",
+      "material": "Stainless Steel",
+      "price": 400
+    },
+    {
+      "id": 6,
+      "name": "Frosty Flask",
+      "color": "White",
+      "image": "https://img.freepik.com/free-photo/butterfly-plant-white-pot_53876-133127.jpg?t=st=1743708898~exp=1743712498~hmac=e35baefc19b95f72e292c4be8823950d20a9f2cb105ec81d5bba7db68a7d41d4&w=740",
+      "capacity": "750ml",
+      "material": "Glass",
+      "price": 300
+    },
+    {
+      "id": 7,
+      "name": "Sporty Hydration",
+      "color": "Yellow",
+      "image": "https://img.freepik.com/free-photo/peace-lily-plant-terracotta-pot-home-decor-object_53876-146302.jpg?t=st=1743707739~exp=1743711339~hmac=0c60a8e0360d2755a1a0406573135aa364cdaac19ec74ba1fde3f1c19b9dbd8c&w=740",
+      "capacity": "600ml",
+      "material": "Plastic",
+      "price": 150
+    },
+    {
+      "id": 8,
+      "name": "Pure Sip",
+      "color": "Blue",
+      "image": "https://img.freepik.com/free-photo/colour-flowers-white-pot-isolated-white_231208-2933.jpg?t=st=1743708735~exp=1743712335~hmac=f11123a148cb81d8f266b79a29dbbfadd3e517eec9283cac8cebfb3cb879c533&w=740",
+      "capacity": "900ml",
+      "material": "Glass",
+      "price": 320
+    },
+    {
+      "id": 9,
+      "name": "Ultra Chill",
+      "color": "Cyan",
+      "image": "https://img.freepik.com/free-photo/still-life-with-indoor-plants_23-2151024936.jpg?t=st=1743708767~exp=1743712367~hmac=3335773b63b2e45cb5e065aa6c19a8e87dae8a8331289ea835e2303c8dfa9dcc&w=740",
+      "capacity": "1.2L",
+      "material": "Stainless Steel",
+      "price": 500
+    },
+    {
+      "id": 10,
+      "name": "Daily Hydrate",
+      "color": "Orange",
+      "image": "https://img.freepik.com/free-photo/birds-nest-plant-beige-pot_53876-134284.jpg?t=st=1743708685~exp=1743712285~hmac=72ecab795230047827f58af1c054647bc039c61586bef20c189bad164fe4b8b4&w=740",
+      "capacity": "1L",
+      "material": "Plastic",
+      "price": 200
+    },
+    {
+      "id": 11,
+      "name": "Glass Elegance",
+      "color": "Pink",
+      "image": "https://img.freepik.com/free-photo/colour-flowers-white-pot-isolated-white_231208-2933.jpg?t=st=1743708735~exp=1743712335~hmac=f11123a148cb81d8f266b79a29dbbfadd3e517eec9283cac8cebfb3cb879c533&w=740",
+      "capacity": "750ml",
+      "material": "Glass",
+      "price": 280
+    },
+    {
+      "id": 12,
+      "name": "Metal Flask",
+      "color": "Gray",
+      "image": "https://img.freepik.com/free-photo/butterfly-plant-white-pot_53876-133127.jpg?t=st=1743708898~exp=1743712498~hmac=e35baefc19b95f72e292c4be8823950d20a9f2cb105ec81d5bba7db68a7d41d4&w=740",
+      "capacity": "1.5L",
+      "material": "Stainless Steel",
+      "price": 450
+    },
+    {
+      "id": 13,
+      "name": "Titan Bottle",
+      "color": "Dark Green",
+      "image": "https://img.freepik.com/free-photo/colour-flowers-white-pot-isolated-white_231208-2933.jpg?t=st=1743708735~exp=1743712335~hmac=f11123a148cb81d8f266b79a29dbbfadd3e517eec9283cac8cebfb3cb879c533&w=740",
+      "capacity": "2L",
+      "material": "Plastic",
+      "price": 220
+    },
+    {
+      "id": 14,
+      "name": "Quick Sip",
+      "color": "Light Blue",
+      "image": "https://img.freepik.com/free-photo/still-life-with-indoor-plants_23-2151024936.jpg?t=st=1743708767~exp=1743712367~hmac=3335773b63b2e45cb5e065aa6c19a8e87dae8a8331289ea835e2303c8dfa9dcc&w=740",
+      "capacity": "550ml",
+      "material": "Glass",
+      "price": 270
+    },
+    {
+      "id": 15,
+      "name": "Adventure Flask",
+      "color": "Brown",
+      "image": "https://img.freepik.com/free-photo/butterfly-plant-white-pot_53876-133127.jpg?t=st=1743708898~exp=1743712498~hmac=e35baefc19b95f72e292c4be8823950d20a9f2cb105ec81d5bba7db68a7d41d4&w=740",
+      "capacity": "1.8L",
+      "material": "Stainless Steel",
+      "price": 480
+    }
+  ]
+  

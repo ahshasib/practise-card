@@ -1,0 +1,26 @@
+.card{
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid black;
+    border-radius: 12px;
+}
+.img{
+    width: 330px; 
+    height: 250px;
+    
+}
+.container{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    justify-content: center;
+    align-items: center;
+}
+.p{
+    text-align: center;
+    padding: 15px;
+    background-color: gold;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #fff;
+}
